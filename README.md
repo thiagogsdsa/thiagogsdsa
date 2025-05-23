@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">I'm a <em>Mathematician</em> with an <strong>MBA in Data Science</strong></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagogsdsa&label=Profile%20views&color=0e75b6&style=flat" alt="thiagogsdsa" /> </p>
-
 - 🔭 I’m currently working on
 
   > - **A/B testing design and analysis for decision science**
