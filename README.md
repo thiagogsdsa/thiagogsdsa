@@ -46,7 +46,7 @@
 
 - ### [faq-floripa](thiagogsdsa/faq-floripa) – FAQ-Floripa: A Smart Tourism Assistant Powered by RAG
 - ### [data-wrangling-python](https://github.com/thiagogsdsa/data-wrangling-python) – Data Wrangling & Cleaning Data
-- ### [Fraud Detection](https://github.com/thiagogsdsa/fraud_detection) – Fraud Detection with Graph Neural Networks – ShieldPay Solutions
+- ### [Brain tumor detection](https://github.com/thiagogsdsa/fraud_detection) – Brain tumor detection 
   - ongoing: Not available yet
 - ### [A/B testing](https://github.com/thiagogsdsa/ab-testing) – A/B testing
   - ongoing: Not available yet
@@ -54,3 +54,17 @@
 ### Remark:
 
 > I also have worked on private projects, such as lead qualification systems and an NLP-based clustering model for grouping similar income statement layouts. Due to confidentiality, these projects cannot be shared publicly.
+
+---
+
+### 🎨 When Math Meets Art
+![Buddhabrot Fractal](https://raw.githubusercontent.com/thiagogsdsa/math/master/fractals/julia/Buddhabrot/output.gif)
+
+While my top priority right now is solving real business problems — with a strong focus on cloud technologies, deployment, and sharpening hard skills — I also enjoy, as a side hobby, diving deep into mathematics and exploring connections between probability, art, and complex analysis.
+
+As a mathematician, I love going beyond the surface of data science — from statistics to abstract theory — and finding beauty in how math can produce powerful, even artistic, visual results.
+
+Even more intriguing is the **Buddhabrot fractal** — a stunning formation where each point in the image represents the *probability distribution* of escape trajectories from the Mandelbrot set. The image is built by tracing the paths of millions of points as they escape, and accumulating their frequency in each region of the complex plane. What emerges is a beautiful visual representation of probabilistic behavior across complex dynamics — a perfect blend of math, probability, and art.
+
+> Check out the repository [here](https://github.com/thiagogsdsa/math/blob/master/fractals/julia/Buddhabrot/README.md) for the full code and more images.
+
