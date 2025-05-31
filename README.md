@@ -1,24 +1,35 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">I'm a <em>Mathematician</em> with an <strong>MBA in Data Science</strong></h3>
 
-- 🔭 I’m currently working on
-
-  > - **A/B testing design and analysis for decision science**
-  > - **Brain tumor classification using deep learning and medical imaging**
-  >
 - 💡 Interested in statistical modeling, causal inference, graph theory, optimization, and real-world applications of NLP, machine learning, and deep learning.
 - 🧠 Passionate about data science since 2022, when I first discovered its power and fell in love with the field
-- 🌱 I'm currently learning about RAG (Retrieval-Augmented Generation) applications, as you can see in my portfolio, and also exploring tools for model deployment. I'm committed to continuous learning and expanding my skill set.
-- 👨‍💻 All of my projects are available at [github.com/thiagogsdsa](https://github.com/thiagogsdsa)
-- 🌱 In my free time, I love exploring nature through hiking, attending cultural events, and diving into research papers on emerging theories. I enjoy going deeper into mathematics and building bridges between theory and real-world applications.
-- 💬 Feel free to ask me about **Data Science**, **Machine Learning/Deep Learning**, **NLP**, and **Mathematics**
-- 📫 How to reach me: thiago.guimaraes.sto@gmail.com
-- 💬 WhatsApp: [+55 48 99673-7618](https://wa.me/5548996737618)
 
-> *Mathematics is where logic meets art, revealing patterns that shape our world.*
+--- 
+
+# Projects 
+
+ ### currently working on
+   -  A/B testing design and analysis for decision science  (75% done)
+   -  Brain tumor classification using deep learning and medical imaging  (25% done)
+  
+### Completed Projects
+-  [faq-floripa](thiagogsdsa/faq-floripa) – FAQ-Floripa: A Smart Tourism Assistant Powered by RAG
+-  [data-wrangling-python](https://github.com/thiagogsdsa/data-wrangling-python) – Data Wrangling & Cleaning Data
+
+  ### Future Projects
+-  Fraud detection with Graph Neural Networks (GNN) 
+-  A project combining Large Language Models (LLM) with optimization (Operations Research) 
+
+### Remark:
+
+> I also have worked on private projects, such as lead qualification and an NLP-based clustering model for grouping similar income statement layouts. Due to confidentiality, these projects cannot be shared publicly.
 
 ---
+# Posts & Articles
+- [LinkedIn-Posts](https://www.linkedin.com/in/thiagogsdsa/recent-activity/all/) – **LinkedIn Posts**
+- [Medium-Posts](https://medium.com/@thiago.guimaraes.sto) – **Medium Posts**
 
+---
 # 🛠️ Languages and Tools:
 
 <p align="left">
@@ -30,6 +41,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /> Docker    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> C++ (basic)
 </p>
+
+---
+# Education 
+- **MBA in Data Science** — University of São Paulo (USP/ESALQ)    Out 2014- Dec 2024
+- **Bachelor in Mathematics** — Federal University of Santa Catarina (UFSC)
+Mar 2015 – Dec 2019
+--- 
+# More about me 
+
+- 🌱 I'm currently learning about RAG (Retrieval-Augmented Generation) applications, as you can see in my portfolio, and also exploring tools for model deployment. I'm committed to continuous learning and expanding my skill set.
+- 👨‍💻 All of my projects are available at [github.com/thiagogsdsa](https://github.com/thiagogsdsa)
+- 🌱 In my free time, I love exploring nature through hiking, attending cultural events, and diving into research papers on emerging theories. I enjoy going deeper into mathematics and building bridges between theory and real-world applications.
+- 💬 Feel free to ask me about **Data Science**, **Machine Learning/Deep Learning**, **NLP**, and **Mathematics**
+- 📫 How to reach me: thiago.guimaraes.sto@gmail.com
+- 💬 WhatsApp: [+55 48 99673-7618](https://wa.me/5548996737618)
+
+> *Mathematics is where logic meets art, revealing patterns that shape our world.*
+
 ---
 
 # 📊 GitHub Stats
@@ -40,29 +69,16 @@
 
 ---
 
-# 🚀 Projects
+# 🎨 When Math Meets Art
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thiagogsdsa/math/master/fractals/julia/Buddhabrot/output.gif" alt="Buddhabrot Fractal" />
+</p>
 
-- ### [faq-floripa](thiagogsdsa/faq-floripa) – FAQ-Floripa: A Smart Tourism Assistant Powered by RAG
-- ### [data-wrangling-python](https://github.com/thiagogsdsa/data-wrangling-python) – Data Wrangling & Cleaning Data
-- ### [Brain tumor detection](https://github.com/thiagogsdsa/fraud_detection) – Brain tumor detection 
-  - ongoing: Not available yet
-- ### [A/B testing](https://github.com/thiagogsdsa/ab-testing) – A/B testing
-  - ongoing: Not available yet
+While solving real business problems is my main focus — with an emphasis on cloud technologies, deployment, and sharp analytical skills — I also enjoy exploring the artistic side of mathematics in my spare time.
 
-### Remark:
+This **Buddhabrot fractal** is one of my favorite examples. It visualizes the *probability distribution* of escape trajectories from the Mandelbrot set. By tracing millions of paths as they diverge, the image reveals a complex structure built from randomness — a beautiful intersection of math, probability, and art.
 
-> I also have worked on private projects, such as lead qualification systems and an NLP-based clustering model for grouping similar income statement layouts. Due to confidentiality, these projects cannot be shared publicly.
-
----
-
-### 🎨 When Math Meets Art
-![Buddhabrot Fractal](https://raw.githubusercontent.com/thiagogsdsa/math/master/fractals/julia/Buddhabrot/output.gif)
-
-While my top priority right now is solving real business problems — with a strong focus on cloud technologies, deployment, and sharpening hard skills — I also enjoy, as a side hobby, diving deep into mathematics and exploring connections between probability, art, and complex analysis.
-
-As a mathematician, I love going beyond the surface of data science — from statistics to abstract theory — and finding beauty in how math can produce powerful, even artistic, visual results.
-
-Even more intriguing is the **Buddhabrot fractal** — a stunning formation where each point in the image represents the *probability distribution* of escape trajectories from the Mandelbrot set. The image is built by tracing the paths of millions of points as they escape, and accumulating their frequency in each region of the complex plane. What emerges is a beautiful visual representation of probabilistic behavior across complex dynamics — a perfect blend of math, probability, and art.
+As a mathematician and data scientist, I’m passionate about connecting abstract theory to the real world — and sometimes, that connection becomes unexpectedly beautiful.
 
 > Check out the repository [here](https://github.com/thiagogsdsa/math/blob/master/fractals/julia/Buddhabrot/README.md) for the full code and more images.
 
