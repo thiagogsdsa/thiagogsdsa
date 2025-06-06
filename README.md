@@ -9,12 +9,26 @@
 # Projects 
 
  ### currently working on
-   -  A/B testing design and analysis for decision science  (75% done)
-   -  Brain tumor classification using deep learning and medical imaging  (25% done)
-  
+   - **Bayesian A/B Testing: Experimental Design and Analysis for Decision-Making** *(80% complete)*
+     
+      Building a decision-making framework using Bayesian inference for evaluating A/B test results under uncertainty.
+
+   - **Brain Tumor Classification Using Deep Learning and Medical Imaging** *(25% complete)*
+
+       Exploring morphological features for extracting discriminative components from MRI images. Investigating an alternative to CNN-based models for classification.
+
 ### Completed Projects
--  [faq-floripa](thiagogsdsa/faq-floripa) – FAQ-Floripa: A Smart Tourism Assistant Powered by RAG
--  [data-wrangling-python](https://github.com/thiagogsdsa/data-wrangling-python) – Data Wrangling & Cleaning Data
+-  **[faq-floripa](thiagogsdsa/faq-floripa) – FAQ-Floripa: A Smart Tourism Assistant Powered by RAG**
+  
+     **Description:** Developed a Telegram bot that answers tourists' questions about Florianópolis using a Retrieval-Augmented Generation (RAG) approach. I simulated JSON files with Q&A pairs, retrieved the most relevant information using sentence embeddings and inner product similarity, and fed this context into Groq for personalized responses.
+   
+     **Tools:** Python, Docker, Poetry, RAG, Groq API, sentence-transformers, JSON, linear algebra (inner product)
+
+-  **[data-wrangling-python](https://github.com/thiagogsdsa/data-wrangling-python) – Data Wrangling & Cleaning Data**
+
+   **Description:**  A growing  repository providing tools and scripts to support data scientists in repetitive and time-consuming data wrangling tasks. The goal is to demonstrate proficiency in data preprocessing while sharing helpful resources with the community.
+   
+   **Tools:** Python, Pandas, Regex, Jupyter, Docker, Poetry
 
   ### Future Projects
 -  Fraud detection with Graph Neural Networks (GNN) 
@@ -49,7 +63,7 @@
 Mar 2015 – Dec 2019
 --- 
 # More about me 
-
+- I love tackling complex problems through applied mathematics and statistics. Challenges motivate me to dig deeper and explore innovative solutions beyond standard approaches. My strengths lie in analytical thinking, data-driven modeling, and continuous learning. While I focus mainly on analysis and modeling, I’m always eager to collaborate and grow my skills in deploying and productionizing solutions. I thrive in environments where creativity meets technical rigor to deliver impactful results.
 - 🌱 I'm currently learning about RAG (Retrieval-Augmented Generation) applications, as you can see in my portfolio, and also exploring tools for model deployment. I'm committed to continuous learning and expanding my skill set.
 - 👨‍💻 All of my projects are available at [github.com/thiagogsdsa](https://github.com/thiagogsdsa)
 - 🌱 In my free time, I love exploring nature through hiking, attending cultural events, and diving into research papers on emerging theories. I enjoy going deeper into mathematics and building bridges between theory and real-world applications.
