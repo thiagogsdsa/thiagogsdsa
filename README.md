@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">I'm a <em>Mathematician</em> with an <strong>MBA in Data Science</strong></h3>
 
-- 💡 Interested in statistical modeling, causal inference, graph theory, optimization, and real-world applications of NLP, machine learning, and deep learning.
+- 💡  Interested in applying mathematical and statistical skills to practical data problems. Experienced with NLP, machine learning, neural networks, optimization, and graph theory, and always eager to learn new tools to deliver effective solutions.
 - 🧠 Passionate about data science since 2022, when I first discovered its power and fell in love with the field
 
 --- 
