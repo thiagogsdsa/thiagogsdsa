@@ -18,17 +18,28 @@
        Exploring morphological features for extracting discriminative components from MRI images. Investigating an alternative to CNN-based models for classification.
 
 ### Completed Projects
--  **[faq-floripa](thiagogsdsa/faq-floripa) – FAQ-Floripa: A Smart Tourism Assistant Powered by RAG**
-  
-     **Description:** Developed a Telegram bot that answers tourists' questions about Florianópolis using a Retrieval-Augmented Generation (RAG) approach. I simulated JSON files with Q&A pairs, retrieved the most relevant information using sentence embeddings and inner product similarity, and fed this context into Groq for personalized responses.
-   
-     **Tools:** Python, Docker, Poetry, RAG, Groq API, sentence-transformers, JSON, linear algebra (inner product)
 
--  **[data-wrangling-python](https://github.com/thiagogsdsa/data-wrangling-python) – Data Wrangling & Cleaning Data**
+### 🤖 NLP & Applied AI
 
-   **Description:**  A growing  repository providing tools and scripts to support data scientists in repetitive and time-consuming data wrangling tasks. The goal is to demonstrate proficiency in data preprocessing while sharing helpful resources with the community.
-   
-   **Tools:** Python, Pandas, Regex, Jupyter, Docker, Poetry
+- **[faq-floripa](https://github.com/thiagogsdsa/faq-floripa)** — *A Smart Tourism Assistant Powered by RAG*  
+  Developed a Telegram chatbot designed to assist tourists by answering frequently asked questions about Florianópolis. The system leverages Retrieval-Augmented Generation (RAG) by retrieving relevant information from structured JSON datasets using sentence embeddings and cosine similarity. It then generates accurate, context-aware responses via the Groq API. This project demonstrates practical application of NLP, vector search, and modern AI APIs to build interactive, knowledge-driven assistants.  
+  *Tech:* Python, Docker, Poetry, RAG, Groq API, sentence-transformers, JSON, linear algebra
+
+---
+
+### 🧹 Data Wrangling & Cleaning
+
+- **[data-wrangling-python](https://github.com/thiagogsdsa/data-wrangling-python)**  
+  A comprehensive repository featuring reusable Python scripts and tools aimed at cleaning, transforming, and preprocessing raw datasets efficiently. Focused on enabling data scientists to build robust, reproducible data pipelines and improve productivity in everyday data preparation tasks. This project illustrates best practices in data hygiene and prepares data for downstream analysis or machine learning.  
+  *Tech:* Python, Pandas, NumPy, Jupyter Notebooks, Data Pipelines
+
+---
+
+### Operations Research & Optimization
+
+- **[production-mix-optimization](https://github.com/thiagogsdsa/mathematical-optimization-projects/blob/main/Production_Mix_Optimization/READEME.md)**  
+  Implementation of a classic linear programming model to optimize the production mix of a factory with resource constraints. The project includes formulating the problem mathematically, solving it using the PuLP library with the CBC solver, and performing sensitivity analysis to interpret shadow prices and slack variables. This project highlights skills in mathematical modeling, applied optimization, and integrating solver tools for practical decision-making in operations research.  
+  *Tech:* Python, PuLP, CBC Solver, Linear Programming, Mathematical Modeling, Sensitivity Analysis
 
   ### Future Projects
 -  Fraud detection with Graph Neural Networks (GNN) 
