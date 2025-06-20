@@ -17,7 +17,7 @@
 
        Exploring morphological features for extracting discriminative components from MRI images. Investigating an alternative to CNN-based models for classification.
 
-### Completed Projects
+# Completed Projects
 
 ### Operations Research & Optimization
 
