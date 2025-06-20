@@ -23,7 +23,7 @@
 
 - **[production-mix-optimization](https://github.com/thiagogsdsa/mathematical-optimization-projects/blob/main/Production_Mix_Optimization/READEME.md)**
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.image?\LARGE%20\begin{align*}\max\sum_{1\leq%20j\leq%20n}p_j%20x_j\\A\bf{x}\leq\bf{b}\\0\leq\bf{x}\end{align*}" alt="Linear Programming Model" />
+  <img src="https://latex.codecogs.com/svg.image?\large%20\begin{align*}\max\sum_{1\leq%20j\leq%20n}p_j%20x_j\\A\bf{x}\leq\bf{b}\\0\leq\bf{x}\end{align*}" alt="Linear Programming Model" />
 </p>
 
 
