@@ -19,6 +19,12 @@
 
 ### Completed Projects
 
+### Operations Research & Optimization
+
+- **[production-mix-optimization](https://github.com/thiagogsdsa/mathematical-optimization-projects/blob/main/Production_Mix_Optimization/READEME.md)**  
+  Implementation of a classic linear programming model to optimize the production mix of a factory with resource constraints. The project includes formulating the problem mathematically, solving it using the PuLP library with the CBC solver, and performing sensitivity analysis to interpret shadow prices and slack variables. This project highlights skills in mathematical modeling, applied optimization, and integrating solver tools for practical decision-making in operations research.  
+  *Tech:* Python, PuLP, CBC Solver, Linear Programming, Mathematical Modeling, Sensitivity Analysis
+
 ### 🤖 NLP & Applied AI
 
 - **[faq-floripa](https://github.com/thiagogsdsa/faq-floripa)** — *A Smart Tourism Assistant Powered by RAG*  
@@ -35,11 +41,7 @@
 
 ---
 
-### Operations Research & Optimization
 
-- **[production-mix-optimization](https://github.com/thiagogsdsa/mathematical-optimization-projects/blob/main/Production_Mix_Optimization/READEME.md)**  
-  Implementation of a classic linear programming model to optimize the production mix of a factory with resource constraints. The project includes formulating the problem mathematically, solving it using the PuLP library with the CBC solver, and performing sensitivity analysis to interpret shadow prices and slack variables. This project highlights skills in mathematical modeling, applied optimization, and integrating solver tools for practical decision-making in operations research.  
-  *Tech:* Python, PuLP, CBC Solver, Linear Programming, Mathematical Modeling, Sensitivity Analysis
 
   ### Future Projects
 -  Fraud detection with Graph Neural Networks (GNN) 
