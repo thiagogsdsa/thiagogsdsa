@@ -23,15 +23,14 @@
 
 - **[production-mix-optimization](https://github.com/thiagogsdsa/mathematical-optimization-projects/tree/main)**
 
-<p align="center">
-  <img src="https://latex.codecogs.com/svg.image?\large%20\begin{align*}\max\sum_{1\leq%20j\leq%20n}p_j%20x_j\\A\bf{x}\leq\bf{b}\\\bf{x}\geq%200\\\end{align*}" alt="Linear Programming Model" />
-</p>
-
-
-
-  Implementation of a classic linear programming model to optimize the production mix of a factory with resource constraints. The project includes formulating the problem mathematically, solving it using the PuLP library with the CBC solver, and performing sensitivity analysis to interpret shadow prices and slack variables. This project highlights skills in mathematical modeling, applied optimization, and integrating solver tools for practical decision-making in operations research.  
+ Implementation of a classic linear programming model to optimize the production mix of a factory with resource constraints. The project includes formulating the problem mathematically, solving it using the PuLP library with the CBC solver, and performing sensitivity analysis to interpret shadow prices and slack variables. This project highlights skills in mathematical modeling, applied optimization, and integrating solver tools for practical decision-making in operations research.  
   *Tech:* Python, PuLP, CBC Solver, Linear Programming, Mathematical Modeling, Sensitivity Analysis
 
+- **[facility-location-optimization](https://github.com/thiagogsdsa/mathematical-optimization-projects)**
+
+Development of a facility location model formulated as a Mixed-Integer Linear Programming (MILP) problem. The goal is to decide which facilities to open and how to assign customer demand to minimize fixed and transportation costs, while respecting capacity and demand constraints. The project includes an exact solution using PuLP and the CBC solver, a greedy heuristic for quick approximations, and a Simulated Annealing metaheuristic to find better solutions in larger instances. Demonstrates skills in mathematical modeling, exact and approximate optimization methods, and custom heuristic design.
+
+*Tech:* Python, PuLP, CBC Solver, MILP, Greedy Heuristic, Simulated Annealing, Facility Location Modeling
 
 ### 🤖 NLP & Applied AI
 
