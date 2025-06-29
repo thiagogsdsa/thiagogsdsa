@@ -8,17 +8,6 @@
 
 # Projects 
 
- ### currently working on
-   - **Bayesian A/B Testing: Experimental Design and Analysis for Decision-Making** *(80% complete)*
-     
-      Building a decision-making framework using Bayesian inference for evaluating A/B test results under uncertainty.
-
-   - **Brain Tumor Classification Using Deep Learning and Medical Imaging** *(25% complete)*
-
-       Exploring morphological features for extracting discriminative components from MRI images. Investigating an alternative to CNN-based models for classification.
-
-## Completed Projects
-
 ### Operations Research 
 #### Optimization Models
 
