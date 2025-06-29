@@ -17,9 +17,10 @@
 
        Exploring morphological features for extracting discriminative components from MRI images. Investigating an alternative to CNN-based models for classification.
 
-# Completed Projects
+## Completed Projects
 
-### Operations Research & Optimization
+### Operations Research 
+#### Optimization Models
 
 - **[production-mix-optimization](https://github.com/thiagogsdsa/mathematical-optimization-projects/tree/main)**
 
@@ -31,6 +32,12 @@
 Development of a facility location model formulated as a Mixed-Integer Linear Programming (MILP) problem. The goal is to decide which facilities to open and how to assign customer demand to minimize fixed and transportation costs, while respecting capacity and demand constraints. The project includes an exact solution using PuLP and the CBC solver, a greedy heuristic for quick approximations, and a Simulated Annealing metaheuristic to find better solutions in larger instances. Demonstrates skills in mathematical modeling, exact and approximate optimization methods, and custom heuristic design.
 
 *Tech:* Python, PuLP, CBC Solver, MILP, Greedy Heuristic, Simulated Annealing, Facility Location Modeling
+
+#### Decision Analysis
+
+- **[AHP-Based Candidate Ranking System](https://github.com/thiagogsdsa/ahp-candidate-ranking)**  
+  Developed a rigorous multi-criteria decision-making framework using the Analytic Hierarchy Process (AHP) to rank six candidates for a Data Scientist role. The project includes building pairwise comparison matrices, calculating criteria weights, checking consistency, and performing sensitivity analysis.  
+  *Tech:* Python, NumPy, Pandas, Jupyter Notebook
 
 ### 🤖 NLP & Applied AI
 
