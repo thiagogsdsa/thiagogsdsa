@@ -80,7 +80,6 @@ Mar 2015 – Dec 2019
 --- 
 # More about me 
 - I love tackling complex problems through applied mathematics and statistics. Challenges motivate me to dig deeper and explore innovative solutions beyond standard approaches. My strengths lie in analytical thinking, data-driven modeling, and continuous learning. While I focus mainly on analysis and modeling, I’m always eager to collaborate and grow my skills in deploying and productionizing solutions. I thrive in environments where creativity meets technical rigor to deliver impactful results.
-- 🌱 I'm currently learning about RAG (Retrieval-Augmented Generation) applications, as you can see in my portfolio, and also exploring tools for model deployment. I'm committed to continuous learning and expanding my skill set.
 - 👨‍💻 All of my projects are available at [github.com/thiagogsdsa](https://github.com/thiagogsdsa)
 - 🌱 In my free time, I love exploring nature through hiking, attending cultural events, and diving into research papers on emerging theories. I enjoy going deeper into mathematics and building bridges between theory and real-world applications.
 - 💬 Feel free to ask me about **Data Science**, **Machine Learning/Deep Learning**, **NLP**, and **Mathematics**
