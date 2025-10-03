@@ -60,6 +60,19 @@ Development of a facility location model formulated as a Mixed-Integer Linear Pr
 - [Medium-Posts](https://medium.com/@thiago.guimaraes.sto) – **Medium Posts**
 
 ---
+# App / Side Project
+
+## Triangle Breathing Dashboard
+
+**Note:** This is **not a data science project**, but it’s fun and practical!  
+The app uses **SQL**, automates **Git commits and pushes**, runs a **shell script**, and even plays a Tibetan bell with meditation music in the terminal.  
+You just need to respond `"1"` to indicate readiness.  
+The system **saves your response in a database** and automatically updates the Git repository.  
+This helps me **break hyperfocus** and take mindful breathing breaks, improving health and focus.
+
+**Tools:** Python, SQLite, Shell Script, Plotly, Julia (for Bruddrabrot art)  
+**Demo / Repo:** [GitHub Link](https://thiagogsdsa.github.io/breathing/)
+--- 
 # 🛠️ Languages and Tools:
 
 <p align="left">
