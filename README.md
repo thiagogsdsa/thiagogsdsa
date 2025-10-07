@@ -62,6 +62,25 @@ Development of a facility location model formulated as a Mixed-Integer Linear Pr
 ---
 # App / Side Project
 
+## Stock View Simulation Dashboard  
+It fetches stock data, performs calculations, and visualizes trends with interactive charts.  
+- Enter a ticker symbol.
+- Select the number of years of historical data.
+- Visualize interactive charts of:
+  - Closing prices
+  - Opening prices
+  - Volume
+  - Candlestick charts
+- Choose chart frequency: daily, weekly, or monthly.
+- Analyze annual return distribution.
+- View histograms of daily, weekly, and monthly returns.
+- Simulate portfolio returns by specifying:
+  - Investment amount
+  - Date of contribution
+
+**Tools:** Python, Streamlit, Matplotlib, mplfinance, Pandas, NumPy, yFinance  
+**Demo / App:** [Stock View Simulation](https://stockviewsimulation.streamlit.app/)
+
 ## Triangle Breathing Dashboard
 
 **Note:** This is **not a data science project**, but it’s fun and practical!  
@@ -72,6 +91,8 @@ This helps me **break hyperfocus** and take mindful breathing breaks, improving 
 
 **Tools:** Python, SQLite, Shell Script, Plotly, Julia (for Bruddrabrot art)  
 **Demo / Repo:** [GitHub Link](https://thiagogsdsa.github.io/breathing/)
+
+
 --- 
 # 🛠️ Languages and Tools:
 
