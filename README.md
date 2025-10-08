@@ -137,7 +137,6 @@ Mar 2015 – Dec 2019
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thiagogsdsa&show_icons=true&theme=radical" alt="thiagogsdsa" />
 </p>
-
 ---
 
 # 🎨 When Math Meets Art
