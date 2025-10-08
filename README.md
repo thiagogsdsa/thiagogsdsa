@@ -66,6 +66,8 @@ Development of a facility location model formulated as a Mixed-Integer Linear Pr
 
 Demo: **[Stock View Simulation](https://stockviewsimulation.streamlit.app/)**
 
+Watch the video: [YouTube](https://www.youtube.com/watch?v=Q9_vMD7R0ZQ)
+
 It fetches stock data, performs calculations, and visualizes trends with interactive charts.  
 - Enter a ticker symbol.
 - Select the number of years of historical data.
@@ -86,6 +88,9 @@ It fetches stock data, performs calculations, and visualizes trends with interac
 ## Triangle Breathing Dashboard
 
  Demo: **[Triangle Breathing](https://thiagogsdsa.github.io/breathing)** 
+
+ Watch the video: [YouTube](https://www.youtube.com/watch?v=DwT-EoZOaeI)
+
 
 
 **Note:** This is **not a data science project**, but it’s fun and practical!  
