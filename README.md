@@ -102,6 +102,7 @@ This helps me **break hyperfocus** and take mindful breathing breaks, improving 
 **Tools:** Python, SQLite, Shell Script, Plotly, Julia (for Bruddrabrot art)  
 
 --- 
+
 # 🛠️ Languages and Tools:
 
 <p align="left">
@@ -137,9 +138,12 @@ Mar 2015 – Dec 2019
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thiagogsdsa&show_icons=true&theme=radical" alt="thiagogsdsa" />
 </p>
+
 ---
 
-# 🎨 When Math Meets Art
+## Explorations / Studies
+
+###  When Math Meets Art - Buddhabrot fractal
 <p align="center">
   <img src="https://raw.githubusercontent.com/thiagogsdsa/math/master/fractals/julia/Buddhabrot/output.gif" alt="Buddhabrot Fractal" />
 </p>
@@ -148,7 +152,21 @@ While solving real business problems is my main focus — with an emphasis on cl
 
 This **Buddhabrot fractal** is one of my favorite examples. It visualizes the *probability distribution* of escape trajectories from the Mandelbrot set. By tracing millions of paths as they diverge, the image reveals a complex structure built from randomness — a beautiful intersection of math, probability, and art.
 
+Fractals are not just art! They are highly relevant in real-world applications, such as **medical imaging**, **agriculture**, and **complex system modeling**. Quite soon, I plan to explore some of these practical applications in depth.
+
 As a mathematician and data scientist, I’m passionate about connecting abstract theory to the real world — and sometimes, that connection becomes unexpectedly beautiful.
 
 > Check out the repository [here](https://github.com/thiagogsdsa/math/blob/master/fractals/julia/Buddhabrot/README.md) for the full code and more images.
 
+###  math4datascience
+
+This repository delves into essential mathematical concepts for data science, including:
+
+- Norms, metrics, and topology 
+- Limits and derivatives 
+- Linear algebra for machine learning
+- Visualizing gradient descent
+
+Each topic is explored through Jupyter Notebooks, providing both theoretical insights and practical applications.
+
+🔗 Explore the full repository: [math4datascience](https://github.com/thiagogsdsa/math4datascience)
