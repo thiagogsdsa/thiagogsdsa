@@ -122,14 +122,16 @@ This helps me **break hyperfocus** and take mindful breathing breaks, improving 
 Mar 2015 – Dec 2019
 --- 
 # More about me 
-- I love tackling complex problems through applied mathematics and statistics. Challenges motivate me to dig deeper and explore innovative solutions beyond standard approaches. My strengths lie in analytical thinking, data-driven modeling, and continuous learning. While I focus mainly on analysis and modeling, I’m always eager to collaborate and grow my skills in deploying and productionizing solutions. I thrive in environments where creativity meets technical rigor to deliver impactful results.
-- 👨‍💻 All of my projects are available at [github.com/thiagogsdsa](https://github.com/thiagogsdsa)
-- 🌱 In my free time, I love exploring nature through hiking, attending cultural events, and diving into research papers on emerging theories. I enjoy going deeper into mathematics and building bridges between theory and real-world applications.
-- 💬 Feel free to ask me about **Data Science**, **Machine Learning/Deep Learning**, **NLP**, and **Mathematics**
-- 📫 How to reach me: thiago.guimaraes.sto@gmail.com
-- 💬 WhatsApp: [+55 48 99673-7618](https://wa.me/5548996737618)
+- I love solving complex problems using **applied math and statistics**, always aiming for **simple, effective solutions** that minimize cost and maximize impact. Challenges push me to think creatively, focus on scalable approaches, and deliver results that matter. My strengths are **analytical thinking**, **data-driven modeling**, and a constant curiosity to learn. While I focus on analysis and modeling, I’m always excited to collaborate and help bring solutions into production.
 
-> *Mathematics is where logic meets art, revealing patterns that shape our world.*
+- 👨‍💻 Check out all my projects: [github.com/thiagogsdsa](https://github.com/thiagogsdsa)
+
+- 🌱 Outside work, I enjoy **hiking, exploring nature, attending cultural events**, and diving into research on emerging theories. I love connecting abstract math with real-world applications.  
+
+- 💬 Feel free to ask me about **Data Science**, **Machine Learning/Deep Learning**, **NLP**, and **Mathematics**  
+
+- 📫 Contact me: thiago.guimaraes.sto@gmail.com  
+- 📱 WhatsApp: [+55 48 99673-7618](https://wa.me/5548996737618)
 
 ---
 
