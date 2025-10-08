@@ -6,7 +6,7 @@
 
 --- 
 
-# Projects 
+# Data Science Projects 
 
 ### Operations Research 
 #### Optimization Models
