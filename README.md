@@ -145,6 +145,28 @@ Mar 2015 – Dec 2019
 
 ## Explorations / Studies
 
+
+### Indicator Based on Percentiles
+
+[Colab Notebook](https://colab.research.google.com/drive/1qEiHHI-hYqjNihHlmReyX_msYaozKrGe?usp=sharing)
+
+Exploring **alternatives to RSI and Stochastics** using **fitted percentiles (2 and 98)**.  
+The approach investigates overbought and oversold regions based on **average log returns** and percentile thresholds. This is **exploratory analysis**, not a trading recommendation.
+
+
+###  math4datascience
+
+This repository delves into essential mathematical concepts for data science, including:
+
+- Norms, metrics, and topology 
+- Limits and derivatives 
+- Linear algebra for machine learning
+- Visualizing gradient descent
+
+Each topic is explored through Jupyter Notebooks, providing both theoretical insights and practical applications.
+
+🔗 Explore the full repository: [math4datascience](https://github.com/thiagogsdsa/math4datascience)
+
 ###  When Math Meets Art - Buddhabrot fractal
 <p align="center">
   <img src="https://raw.githubusercontent.com/thiagogsdsa/math/master/fractals/julia/Buddhabrot/output.gif" alt="Buddhabrot Fractal" />
@@ -160,15 +182,4 @@ As a mathematician and data scientist, I’m passionate about connecting abstrac
 
 > Check out the repository [here](https://github.com/thiagogsdsa/math/blob/master/fractals/julia/Buddhabrot/README.md) for the full code and more images.
 
-###  math4datascience
 
-This repository delves into essential mathematical concepts for data science, including:
-
-- Norms, metrics, and topology 
-- Limits and derivatives 
-- Linear algebra for machine learning
-- Visualizing gradient descent
-
-Each topic is explored through Jupyter Notebooks, providing both theoretical insights and practical applications.
-
-🔗 Explore the full repository: [math4datascience](https://github.com/thiagogsdsa/math4datascience)
