@@ -1,8 +1,39 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">I'm a <em>Mathematician</em> with an <strong>MBA in Data Science</strong></h3>
 
-- 💡  Interested in applying mathematical and statistical skills to practical data problems. Experienced with NLP, machine learning, neural networks, optimization, and graph theory, and always eager to learn new tools to deliver effective solutions.
-- 🧠 Passionate about data science since 2022, when I first discovered its power and fell in love with the field
+-  Passionate about data science since 2022, when I first discovered its power and fell in love with the field
+- I love solving complex problems using **applied math and statistics**, always aiming for **simple, effective solutions** that minimize cost and maximize impact. Challenges push me to think creatively, focus on scalable approaches, and deliver results that matter. My strengths are **analytical thinking**, **data-driven modeling**, and a constant curiosity to learn. While I focus on analysis and modeling, I’m always excited to collaborate and help bring solutions into production.
+
+-  Check out all my projects: [github.com/thiagogsdsa](https://github.com/thiagogsdsa)
+
+- 🌱 Outside work, I enjoy **hiking, exploring nature, attending cultural events**, and diving into research on emerging theories. I love connecting abstract math with real-world applications.  
+
+- 💬 Feel free to ask me about **Data Science**, **Machine Learning/Deep Learning**, **NLP**, and **Mathematics**  
+
+- 📫 Contact me: thiago.guimaraes.sto@gmail.com  
+- 📱 WhatsApp: [+55 48 99673-7618](https://wa.me/5548996737618)
+- Linkedin:    [thiagogsdsa](https://www.linkedin.com/in/thiagogsdsa/) 
+
+--- 
+
+# Education 
+- **MBA in Data Science** — University of São Paulo (USP/ESALQ)    Out 2014- Dec 2024
+- **Bachelor in Mathematics** — Federal University of Santa Catarina (UFSC)
+Mar 2015 – Dec 2019
+
+--- 
+
+# Languages and Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> Python    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="40" height="40" /> Julia    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" /> R    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" /> SQL    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40" /> Apache Spark    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /> Docker    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> C++ (basic)
+</p>
 
 --- 
 
@@ -36,7 +67,7 @@ Development of a facility location model formulated as a Mixed-Integer Linear Pr
 
 ---
 
-### 🧹 Data Wrangling & Cleaning
+###  Data Wrangling & Cleaning
 
 - **[data-wrangling-python](https://github.com/thiagogsdsa/data-wrangling-python)**  
   A comprehensive repository featuring reusable Python scripts and tools aimed at cleaning, transforming, and preprocessing raw datasets efficiently. Focused on enabling data scientists to build robust, reproducible data pipelines and improve productivity in everyday data preparation tasks. This project illustrates best practices in data hygiene and prepares data for downstream analysis or machine learning.  
@@ -44,9 +75,7 @@ Development of a facility location model formulated as a Mixed-Integer Linear Pr
 
 ---
 
-
-
-  ### Future Projects
+### Future Projects
 -  Fraud detection with Graph Neural Networks (GNN) 
 -  A project combining Large Language Models (LLM) with optimization (Operations Research) 
 
@@ -55,11 +84,14 @@ Development of a facility location model formulated as a Mixed-Integer Linear Pr
 > I also have worked on private projects, such as lead qualification and an NLP-based clustering model for grouping similar income statement layouts. Due to confidentiality, these projects cannot be shared publicly.
 
 ---
+
 # Posts & Articles
 - [LinkedIn-Posts](https://www.linkedin.com/in/thiagogsdsa/recent-activity/all/) – **LinkedIn Posts**
+
 - [Medium-Posts](https://medium.com/@thiago.guimaraes.sto) – **Medium Posts**
 
 ---
+
 # App / Side Project
 
 ## Stock View Simulation Dashboard  
@@ -91,8 +123,6 @@ It fetches stock data, performs calculations, and visualizes trends with interac
 
  Watch the video: [YouTube](https://www.youtube.com/watch?v=DwT-EoZOaeI)
 
-
-
 **Note:** This is **not a data science project**, but it’s fun and practical!  
 The app uses **SQL**, automates **Git commits and pushes**, runs a **shell script**, and even plays a Tibetan bell with meditation music in the terminal.  
 You just need to respond `"1"` to indicate readiness.  
@@ -102,46 +132,6 @@ This helps me **break hyperfocus** and take mindful breathing breaks, improving 
 **Tools:** Python, SQLite, Shell Script, Plotly, Julia (for Bruddrabrot art)  
 
 --- 
-
-# 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> Python    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="40" height="40" /> Julia    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" /> R    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" /> SQL    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40" /> Apache Spark    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /> Docker    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> C++ (basic)
-</p>
-
----
-# Education 
-- **MBA in Data Science** — University of São Paulo (USP/ESALQ)    Out 2014- Dec 2024
-- **Bachelor in Mathematics** — Federal University of Santa Catarina (UFSC)
-Mar 2015 – Dec 2019
---- 
-# More about me 
-- I love solving complex problems using **applied math and statistics**, always aiming for **simple, effective solutions** that minimize cost and maximize impact. Challenges push me to think creatively, focus on scalable approaches, and deliver results that matter. My strengths are **analytical thinking**, **data-driven modeling**, and a constant curiosity to learn. While I focus on analysis and modeling, I’m always excited to collaborate and help bring solutions into production.
-
-- 👨‍💻 Check out all my projects: [github.com/thiagogsdsa](https://github.com/thiagogsdsa)
-
-- 🌱 Outside work, I enjoy **hiking, exploring nature, attending cultural events**, and diving into research on emerging theories. I love connecting abstract math with real-world applications.  
-
-- 💬 Feel free to ask me about **Data Science**, **Machine Learning/Deep Learning**, **NLP**, and **Mathematics**  
-
-- 📫 Contact me: thiago.guimaraes.sto@gmail.com  
-- 📱 WhatsApp: [+55 48 99673-7618](https://wa.me/5548996737618)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagogsdsa&show_icons=true&theme=radical" alt="thiagogsdsa" />
-</p>
-
----
 
 ## Explorations / Studies
 
@@ -181,5 +171,15 @@ Fractals are not just art! They are highly relevant in real-world applications, 
 As a mathematician and data scientist, I’m passionate about connecting abstract theory to the real world — and sometimes, that connection becomes unexpectedly beautiful.
 
 > Check out the repository [here](https://github.com/thiagogsdsa/math/blob/master/fractals/julia/Buddhabrot/README.md) for the full code and more images.
+
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagogsdsa&show_icons=true&theme=radical" alt="thiagogsdsa" />
+</p>
+
 
 
