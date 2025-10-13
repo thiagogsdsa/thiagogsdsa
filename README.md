@@ -135,12 +135,18 @@ This helps me **break hyperfocus** and take mindful breathing breaks, improving 
 
 ## Explorations / Studies
 
+### Integral Estimator (High Dimension) via Monte Carlo
+
+[Colab Notebook](https://colab.research.google.com/drive/14urHqZzmSOkYSqrFQcxJpobUbX1gwQR8?usp=sharing)
+
+Exploring: Connecting the theory of integration to practical applications, with examples including estimation of probabilities such as mechanical failure detection and simplified Bayesian A/B testing (see remark). The intention is to explore the full Bayesian A/B testing approach in detail later and deploy it for further use.
+
 
 ### Indicator Based on Percentiles
 
 [Colab Notebook](https://colab.research.google.com/drive/1qEiHHI-hYqjNihHlmReyX_msYaozKrGe?usp=sharing)
 
-Exploring **alternatives to RSI and Stochastics** using **fitted percentiles (2 and 98)**.  
+Exploring **alternatives to RSI and Stochastics** using **fitted percentiles (5 and 95)**.  
 The approach investigates overbought and oversold regions based on **average log returns** and percentile thresholds. This is **exploratory analysis**, not a trading recommendation.
 
 
