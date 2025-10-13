@@ -139,7 +139,13 @@ This helps me **break hyperfocus** and take mindful breathing breaks, improving 
 
 [Colab Notebook](https://colab.research.google.com/drive/14urHqZzmSOkYSqrFQcxJpobUbX1gwQR8?usp=sharing)
 
-Exploring: Connecting the theory of integration to practical applications, with examples including estimation of probabilities such as mechanical failure detection and simplified Bayesian A/B testing (see remark). The intention is to explore the full Bayesian A/B testing approach in detail later and deploy it for further use.
+Exploring: Connecting the theory of integration to practical applications, with examples including estimation of probabilities such as mechanical failure detection and simplified Bayesian A/B testing (see remark).
+**Examples include:**
+- Tumor area estimation
+- Irregular domains, such as fractals, showing how Monte Carlo can handle complex shapes.
+- Simple demonstrations of Bayesian A/B testing (not fully rigorous).
+- Failure probability computation in mechanical systems.
+- Classic Monte Carlo problems, including estimation of $\pi$ and numerical computation of $\log(x)$.
 
 
 ### Indicator Based on Percentiles
