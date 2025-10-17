@@ -96,7 +96,7 @@ Development of a facility location model formulated as a Mixed-Integer Linear Pr
 
 - **ab-bayes-test** – Python package for Bayesian A/B testing on **means** and **proportions**. Supports **conjugate inference** and **MCMC inference**.  
   Install via PyPI: `pip install ab-bayes-test`  
-  [GitHub Repository](https://github.com/thiagogsdsa/ab-bayes-test)
+  [GitHub Repository](https://github.com/thiagogsdsa/ab_bayes_test)
 
 --- 
 
