@@ -92,6 +92,14 @@ Development of a facility location model formulated as a Mixed-Integer Linear Pr
 
 ---
 
+# Plugins / Modules / PyPI Packages
+
+- **ab-bayes-test** – Python package for Bayesian A/B testing on **means** and **proportions**. Supports **conjugate inference** and **MCMC inference**.  
+  Install via PyPI: `pip install ab-bayes-test`  
+  [GitHub Repository](https://github.com/thiagogsdsa/ab-bayes-test)
+
+--- 
+
 # App / Side Project
 
 ## Stock View Simulation Dashboard  
@@ -134,6 +142,7 @@ This helps me **break hyperfocus** and take mindful breathing breaks, improving 
 --- 
 
 ## Explorations / Studies
+
 
 ### Integral Estimator (High Dimension) via Monte Carlo
 
