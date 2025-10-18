@@ -39,8 +39,8 @@ Mar 2015 – Dec 2019
 
 # Data Science Projects 
 
-### Operations Research 
-#### Optimization Models
+## Operations Research 
+### Optimization Models
 
 - **[production-mix-optimization](https://github.com/thiagogsdsa/mathematical-optimization-projects/tree/main)**
 
@@ -53,13 +53,13 @@ Development of a facility location model formulated as a Mixed-Integer Linear Pr
 
 *Tech:* Python, PuLP, CBC Solver, MILP, Greedy Heuristic, Simulated Annealing, Facility Location Modeling
 
-#### Decision Analysis
+### Decision Analysis
 
 - **[AHP-Based Candidate Ranking System](https://github.com/thiagogsdsa/ahp-candidate-ranking)**  
   Developed a rigorous multi-criteria decision-making framework using the Analytic Hierarchy Process (AHP) to rank six candidates for a Data Scientist role. The project includes building pairwise comparison matrices, calculating criteria weights, checking consistency, and performing sensitivity analysis.  
   *Tech:* Python, NumPy, Pandas, Jupyter Notebook
 
-### NLP & Applied AI
+## NLP & Applied AI
 
 - **[faq-floripa](https://github.com/thiagogsdsa/faq-floripa)** — *A Smart Tourism Assistant Powered by RAG*  
   Developed a Telegram chatbot designed to assist tourists by answering frequently asked questions about Florianópolis. The system leverages Retrieval-Augmented Generation (RAG) by retrieving relevant information from structured JSON datasets using sentence embeddings and cosine similarity. It then generates accurate, context-aware responses via the Groq API. This project demonstrates practical application of NLP, vector search, and modern AI APIs to build interactive, knowledge-driven assistants.  
@@ -80,10 +80,40 @@ Development of a facility location model formulated as a Mixed-Integer Linear Pr
 
 # Plugins / Modules / PyPI Packages
 
-- **ab-bayes-test** – Python package for Bayesian A/B testing on **means** and **proportions**. Supports **conjugate inference** and **MCMC inference**.  
-  Install via PyPI: `pip install ab-bayes-test`  
-  [GitHub Repository](https://github.com/thiagogsdsa/ab_bayes_test)
+## Bayesian A/B Testing Package 
 
+
+### `ab-bayes-test` 
+
+**Python package** designed for conducting **Bayesian A/B tests** on both **means** (e.g., average revenue) and **proportions** (e.g., conversion rate).
+
+
+### Key Features and Implementation
+
+The package distinguishes itself by offering two robust methods for performing **posterior inference**, both implemented from scratch:
+
+1.  **Conjugate Inference (Analytical):**
+    * This method leverages **conjugate priors** to derive the posterior distribution **analytically**.
+
+
+2.  **MCMC Inference (Implemented from Zero):**
+    * It includes a **custom implementation of Markov Chain Monte Carlo (MCMC)** sampling.
+
+
+### Supported Test Types
+
+* **Testing on Proportions:** Ideal for metrics like **conversion rates**, click-through rates (CTR), and sign-up rates.
+* **Testing on Means:** Suitable for continuous variables such as **Average Revenue Per User (ARPU)**, session duration, or average order value.
+
+
+### Installation and Repository
+
+* **Install via PyPI:**
+    ```bash
+    pip install ab-bayes-test
+    ```
+* **GitHub Repository:**
+    [GitHub Repository](https://thiagogsdsa/ab_bayes_test)
 --- 
 
 # App / Side Project
