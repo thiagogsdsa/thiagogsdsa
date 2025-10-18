@@ -59,25 +59,11 @@ Development of a facility location model formulated as a Mixed-Integer Linear Pr
   Developed a rigorous multi-criteria decision-making framework using the Analytic Hierarchy Process (AHP) to rank six candidates for a Data Scientist role. The project includes building pairwise comparison matrices, calculating criteria weights, checking consistency, and performing sensitivity analysis.  
   *Tech:* Python, NumPy, Pandas, Jupyter Notebook
 
-### 🤖 NLP & Applied AI
+### NLP & Applied AI
 
 - **[faq-floripa](https://github.com/thiagogsdsa/faq-floripa)** — *A Smart Tourism Assistant Powered by RAG*  
   Developed a Telegram chatbot designed to assist tourists by answering frequently asked questions about Florianópolis. The system leverages Retrieval-Augmented Generation (RAG) by retrieving relevant information from structured JSON datasets using sentence embeddings and cosine similarity. It then generates accurate, context-aware responses via the Groq API. This project demonstrates practical application of NLP, vector search, and modern AI APIs to build interactive, knowledge-driven assistants.  
   *Tech:* Python, Docker, Poetry, RAG, Groq API, sentence-transformers, JSON, linear algebra
-
----
-
-###  Data Wrangling & Cleaning
-
-- **[data-wrangling-python](https://github.com/thiagogsdsa/data-wrangling-python)**  
-  A comprehensive repository featuring reusable Python scripts and tools aimed at cleaning, transforming, and preprocessing raw datasets efficiently. Focused on enabling data scientists to build robust, reproducible data pipelines and improve productivity in everyday data preparation tasks. This project illustrates best practices in data hygiene and prepares data for downstream analysis or machine learning.  
-  *Tech:* Python, Pandas, NumPy, Jupyter Notebooks, Data Pipelines
-
----
-
-### Future Projects
--  Fraud detection with Graph Neural Networks (GNN) 
--  A project combining Large Language Models (LLM) with optimization (Operations Research) 
 
 ### Remark:
 
@@ -102,7 +88,7 @@ Development of a facility location model formulated as a Mixed-Integer Linear Pr
 
 # App / Side Project
 
-## Stock View Simulation Dashboard  
+## Stock View Simulation   
 
 Demo: **[Stock View Simulation](https://stockviewsimulation.streamlit.app/)**
 
@@ -125,26 +111,50 @@ It fetches stock data, performs calculations, and visualizes trends with interac
 
 **Tools:** Python, Streamlit, Matplotlib, mplfinance, Pandas, NumPy, yFinance  
 
-## Triangle Breathing Dashboard
+## My Triangle Breathing Journey Dashboard 🧘
 
- Demo: **[Triangle Breathing](https://thiagogsdsa.github.io/breathing)** 
+Demo: **[Triangle Breathing](https://thiagogsdsa.github.io/breathing)** 
 
- Watch the video: [YouTube](https://www.youtube.com/watch?v=DwT-EoZOaeI)
+Watch the video: [YouTube](https://www.youtube.com/watch?v=DwT-EoZOaeI)
 
-**Note:** This is **not a data science project**, but it’s fun and practical!  
-The app uses **SQL**, automates **Git commits and pushes**, runs a **shell script**, and even plays a Tibetan bell with meditation music in the terminal.  
-You just need to respond `"1"` to indicate readiness.  
-The system **saves your response in a database** and automatically updates the Git repository.  
-This helps me **break hyperfocus** and take mindful breathing breaks, improving health and focus.
 
-**Tools:** Python, SQLite, Shell Script, Plotly, Julia (for Bruddrabrot art)  
+**Note:** This is a **This is my personal breathing journey** that's both **fun and practical**! It automates mindful breaks to combat **hyperfocus**, using a specific breathing technique.
 
+### Key Automation & Workflow
+
+The system is controlled via a simple terminal command:
+
+1.  **Set Interval:** Run `./breathing X` (e.g., `./breathing 120`) to set an automatic timer for *X* minutes (e.g., 2 hours).
+2.  **Break Notification:** When the timer ends, a **shell script** runs, playing a **Tibetan bell (3 times)** and meditation music in the terminal to break your focus.
+3.  **Start Exercise:** You are prompted to confirm readiness. Responding with `"1"` registers the start of the exercise, which:
+    * **Saves the response** in an **SQLite database**.
+    * Automates **Git commits and pushes**, instantly updating the repository.
+4.  **Visualization:** This process tracks your progress, allowing you to visualize your breathing journey through plots on the dashboard.
+
+
+### The Specific Breathing Exercise (5 Minutes)
+
+The routine is **8 rounds** of the following **40-second cycle**:
+
+* **Inhale:** 10 seconds
+* **Hold:** 20 seconds
+* **Exhale Slowly:** 10 seconds
+
+### Web Dashboard
+
+The demo page features a visual guide to accompany the exercise:
+
+* Open the URL and **double-click anywhere** on the screen.
+* A **small particle** moves around a **triangle**, visually guiding your **Inhale-Hold-Exhale** phases, synchronized with the bell sound played by the script.
+
+
+**Tools Used:** Python · SQLite · Bash (Shell Script) · Plotly
 --- 
 
-## Explorations / Studies
+# Explorations / Studies
 
 
-### Integral Estimator (High Dimension) via Monte Carlo
+## Integral Estimator (High Dimension) via Monte Carlo
 
 [Colab Notebook](https://colab.research.google.com/drive/14urHqZzmSOkYSqrFQcxJpobUbX1gwQR8?usp=sharing)
 
@@ -157,7 +167,7 @@ Exploring: Connecting the theory of integration to practical applications, with 
 - Classic Monte Carlo problems, including estimation of $\pi$ and numerical computation of $\log(x)$.
 
 
-### Indicator Based on Percentiles
+## Indicator Based on Percentiles
 
 [Colab Notebook](https://colab.research.google.com/drive/1qEiHHI-hYqjNihHlmReyX_msYaozKrGe?usp=sharing)
 
@@ -165,7 +175,7 @@ Exploring **alternatives to RSI and Stochastics** using **fitted percentiles (5 
 The approach investigates overbought and oversold regions based on **average log returns** and percentile thresholds. This is **exploratory analysis**, not a trading recommendation.
 
 
-###  math4datascience
+##  math4datascience
 
 This repository delves into essential mathematical concepts for data science, including:
 
@@ -178,7 +188,7 @@ Each topic is explored through Jupyter Notebooks, providing both theoretical ins
 
 🔗 Explore the full repository: [math4datascience](https://github.com/thiagogsdsa/math4datascience)
 
-###  When Math Meets Art - Buddhabrot fractal
+##  When Math Meets Art - Buddhabrot fractal
 <p align="center">
   <img src="https://raw.githubusercontent.com/thiagogsdsa/math/master/fractals/julia/Buddhabrot/output.gif" alt="Buddhabrot Fractal" />
 </p>
