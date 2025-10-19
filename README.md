@@ -113,7 +113,7 @@ The package distinguishes itself by offering two robust methods for performing *
     pip install ab-bayes-test
     ```
 * **GitHub Repository:**
-    [GitHub Repository](https://thiagogsdsa/ab_bayes_test)
+    [GitHub Repository](https://github.com/thiagogsdsa/ab_bayes_test)
 --- 
 
 # App / Side Project
